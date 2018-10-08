@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For DevTomek_DS18B20
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DevTomek_DS18B20			KEYWORD1
+OneWire						KEYWORD1
+DeviceAddress				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin						KEYWORD2
+getDeviceCount				KEYWORD2
+validAddress				KEYWORD2
+getAddress					KEYWORD2
+isConnected					KEYWORD2
+readScratchPad				KEYWORD2
+writeScratchPad				KEYWORD2
+readPowerSupply				KEYWORD2
+getResolution				KEYWORD2
+setResolution				KEYWORD2
+requestTemperatures			KEYWORD2
+getTemp						KEYWORD2
+getRaw						KEYWORD2
+isConversionComplete		KEYWORD2
+millisToWaitForConversion	KEYWORD2
+rawToCelsius				KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
